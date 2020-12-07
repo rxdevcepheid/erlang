@@ -22,4 +22,3 @@ end
 
 source_url 'https://github.com/chef-cookbooks/erlang'
 issues_url 'https://github.com/chef-cookbooks/erlang/issues'
-chef_version '>= 12.1'
